@@ -1,4 +1,4 @@
-function romanToInt(s: string): number {
+function romanToInteger(s: string): number {
     const numerals = {
         'I' : 1,
         'V' : 5,
